@@ -5,7 +5,7 @@ The purpose of this project was to design and implement generic playing cards an
 
 ### Usage
 
-Debug/OOP-Project-CardGames.exe
+Runnable/OOP-Project-CardGames.exe
 
 
 ## Built With
